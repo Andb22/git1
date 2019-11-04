@@ -1,1 +1,1 @@
-move: bricks
+move: bricks, houses

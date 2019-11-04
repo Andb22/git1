@@ -1,1 +1,1 @@
-move : sand, water
+move : sand, water, mix
